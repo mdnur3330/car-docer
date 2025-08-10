@@ -1,0 +1,158 @@
+[
+  {
+    "_id": "635a0c0b64a6d231228942ae",
+    "service_id": "04",
+    "title": "Engine Oil Change",
+    "img": "https://i.ibb.co/T2cpBd5/888.jpg",
+    "price": "20.00",
+    "description": "Regular engine oil changes keep your vehicle running smoothly, improve fuel efficiency, and extend the life of the engine. We use premium-grade oil and high-quality filters to ensure your car performs at its best.",
+    "facility": [
+      {
+        "name": "Premium Oil Products",
+        "details": "We only use synthetic or semi-synthetic oils recommended by manufacturers."
+      },
+      {
+        "name": "Same-Day Service",
+        "details": "Get your oil changed and be back on the road in under 45 minutes."
+      },
+      {
+        "name": "Multi-Point Inspection",
+        "details": "Every oil change includes a complimentary inspection of brakes, lights, and fluids."
+      },
+      {
+        "name": "Eco-Friendly Disposal",
+        "details": "We safely recycle used oil and filters according to environmental guidelines."
+      }
+    ]
+  },
+  {
+    "_id": "635a0c0b64a6d231228942af",
+    "service_id": "05",
+    "title": "Battery Charge",
+    "img": "https://i.ibb.co/ydCbDN3/5555.jpg",
+    "price": "20.00",
+    "description": "Our battery charging service ensures your car battery is restored to optimal power levels. Perfect for batteries drained by weather conditions, prolonged storage, or heavy electrical use.",
+    "facility": [
+      {
+        "name": "Fast Charging Technology",
+        "details": "We use modern chargers that restore battery power without damaging cells."
+      },
+      {
+        "name": "Free Battery Testing",
+        "details": "We check your battery health before and after charging to ensure reliability."
+      },
+      {
+        "name": "Corrosion Cleaning",
+        "details": "Battery terminals are cleaned to improve electrical connections."
+      },
+      {
+        "name": "Portable Assistance",
+        "details": "If you can’t start your car, we can charge your battery on-site."
+      }
+    ]
+  },
+  {
+    "_id": "635b591a1dafe382a9da8c96",
+    "service_id": "01",
+    "title": "Full Car Repair",
+    "img": "https://i.ibb.co/R6Z2nFM/55.jpg",
+    "price": "200.00",
+    "description": "Our full car repair service covers everything from mechanical issues to electrical faults. Whether it's engine troubles, transmission repairs, or brake replacements, we restore your car to peak performance.",
+    "facility": [
+      {
+        "name": "Certified Technicians",
+        "details": "Our team is trained and certified to handle all makes and models."
+      },
+      {
+        "name": "Genuine Spare Parts",
+        "details": "We only use manufacturer-approved parts to ensure long-lasting repairs."
+      },
+      {
+        "name": "Detailed Diagnostics",
+        "details": "Advanced diagnostic tools help identify and fix problems faster."
+      },
+      {
+        "name": "Post-Repair Warranty",
+        "details": "Enjoy peace of mind with a 6-month repair warranty."
+      }
+    ]
+  },
+  {
+    "_id": "635b5afc1dafe382a9da8c98",
+    "service_id": "02",
+    "title": "Engine Repair",
+    "img": "https://i.ibb.co/5MvmD2g/88.jpg",
+    "price": "150.00",
+    "description": "We specialize in repairing engines suffering from overheating, knocking sounds, oil leaks, and loss of power. Our services range from minor tune-ups to complete engine overhauls.",
+    "facility": [
+      {
+        "name": "Complete Overhaul",
+        "details": "We disassemble, clean, and rebuild engines for maximum efficiency."
+      },
+      {
+        "name": "Performance Tuning",
+        "details": "Optimize your engine for better horsepower and fuel economy."
+      },
+      {
+        "name": "Leak Detection",
+        "details": "We use UV dye technology to detect and fix oil and coolant leaks."
+      },
+      {
+        "name": "Engine Warranty",
+        "details": "All repairs come with a 12-month warranty."
+      }
+    ]
+  },
+  {
+    "_id": "635b5b691dafe382a9da8c99",
+    "service_id": "03",
+    "title": "Automatic Services",
+    "img": "https://i.ibb.co/wh7t3N3/555.jpg",
+    "price": "30.00",
+    "description": "Our automatic service package includes fluid changes, sensor calibration, and transmission tuning for vehicles with automatic gearboxes.",
+    "facility": [
+      {
+        "name": "Transmission Fluid Replacement",
+        "details": "High-quality fluids keep your gearbox shifting smoothly."
+      },
+      {
+        "name": "Software Updates",
+        "details": "We update your transmission software for improved performance."
+      },
+      {
+        "name": "Clutch-Free System Check",
+        "details": "Ensure your automatic system operates without delays or jerks."
+      },
+      {
+        "name": "Extended Gearbox Life",
+        "details": "Prevent costly repairs by maintaining your transmission regularly."
+      }
+    ]
+  },
+  {
+    "_id": "635b5ba51dafe382a9da8c9a",
+    "service_id": "06",
+    "title": "Electrical System",
+    "img": "https://i.ibb.co/KzCG8qr/8888.jpg",
+    "price": "20.00",
+    "description": "From headlights to onboard computers, our electrical system service ensures every component is working perfectly. We diagnose, repair, and replace faulty wiring, fuses, and sensors.",
+    "facility": [
+      {
+        "name": "Full Electrical Diagnostics",
+        "details": "Advanced tools identify wiring and circuit issues quickly."
+      },
+      {
+        "name": "Lighting Upgrades",
+        "details": "We install high-performance LED and HID lights."
+      },
+      {
+        "name": "Fuse & Relay Replacement",
+        "details": "All replacements meet OEM standards."
+      },
+      {
+        "name": "Sensor Calibration",
+        "details": "We recalibrate sensors for safety features like ABS and airbags."
+      }
+    ]
+  }
+]
