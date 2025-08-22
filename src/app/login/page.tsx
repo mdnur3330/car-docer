@@ -1,5 +1,6 @@
 "use client";
 
+import { signIn } from "next-auth/react";
 import { useState } from "react";
 
 export default function LoginPage() {
@@ -71,6 +72,12 @@ export default function LoginPage() {
           </a>
         </p>
       </div>
+
+      <button
+      onClick={()=>{
+        signIn("github", {callbackUrl: "https://car-docar-lcgtuxti0-md-nur-aloms-projects.vercel.app/"})
+      }}
+      >github</button>
     </div>
   );
 }

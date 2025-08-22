@@ -20,10 +20,10 @@ export default function Navbar() {
   ];
 
   return (
-    <nav className="bg-white shadow-md sticky top-0 z-50">
+    <nav className="bg-white sticky top-0 z-50">
       <Container className="flex items-center justify-between py-4">
         {/* Logo */}
-        <div className="flex items-center gap-2">
+        <div className="flex items-center gap-2 ml-3">
           <Image src="/assets/logo.svg" alt="logo" width={45} height={45} />
           <span className="font-bold text-xl hidden sm:block">Car Doctor</span>
         </div>
